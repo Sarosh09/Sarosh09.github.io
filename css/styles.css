@@ -1,0 +1,190 @@
+body {
+  color: #40514E;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #111d5e;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-size: 3rem;
+  color: #111d5e;
+  font-family: 'Pacifico', cursive;
+}
+
+h3 {
+  font-size: 2rem;
+  color: #77d8d8;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  margin: 100px auto;
+  border-color: #8ec6c5;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+}
+
+p {
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+.name {
+  margin-bottom: 0;
+  font-size: 5.625rem;
+  color: #111d5e;
+}
+
+.pro {
+  margin-top: 4px;
+  margin-bottom: 4px;
+  color: #111d5e;
+  font-size: 1.5625rem;
+}
+
+.top-container {
+  background-color: #8ec6c5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+  background-color: white;
+}
+
+.bottom-container {
+  text-align: center;
+  background-color: #8ec6c5;
+  padding-top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  left: 400px;
+  bottom: 300px;
+  position: absolute;
+}
+
+.mount {
+  width: 550px;
+  height: 300px;
+}
+
+.profile-pic {
+  width: 200px;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+.link {
+  color: #77d8d8;
+}
+.link:hover {
+  color: #008ec2;
+}
+.pic1 {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pic2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.class1 {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  border: 5px solid #8ec6c5;
+}
+.contact-me {
+  width: 50%;
+  margin: auto;
+}
+.btn {
+	box-shadow: 0 10px 14px -7px #000000;
+	background:linear-gradient(to bottom, #008ec2 5%, #00ddff 100%);
+	background-color:#008ec2;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size:18px;
+	font-weight:bold;
+	padding:10px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #00ddff 5%, #008ec2 100%);
+	background-color:#00ddff;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.footer-link {
+  padding: 1rem;
+  color: white;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color: black;
+}
+.last {
+  color: grey;
+  font-size: 0.75rem;
+  margin-bottom: 0;
+}
+
+/*<body style="
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+"><div class="">
+<h1 style="
+  margin-top: 0px;
+  margin-bottom: 0px;
+">I'm Sarosh</h1>
+<p style="
+  margin-top: 16px;
+">a programmer.</p>
+padding-top: 200px;
+padding-right: 500px;
+padding-bottom: 200px;
+padding-left: 600px;
+font family encoding
+font-family: 'Sacramento', cursive;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Merriweather', serif;
+𝓘'𝓶 𝓢𝓪𝓻𝓸𝓼𝓱
+*/
