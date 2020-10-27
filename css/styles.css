@@ -24,6 +24,13 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
+h4 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+
 hr {
   margin: 100px auto;
   border-color: #8ec6c5;
